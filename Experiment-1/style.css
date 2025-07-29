@@ -1,3 +1,17 @@
 form {
-background-color :greenyellow
+background-color :greenyellow;
+width:350px;
+height:300px;
+border:50px ridge peachpuff;
+border-radius:10px;
+padding:50px;
+margin:100px;
+/* display:flex; */
+}
+body{
+  background-color:crimson;
+  display:flex;
+  flex-direction:column;
+  /* content:space-around; */
+  align-content:center;
 }
