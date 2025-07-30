@@ -1,0 +1,1 @@
+made an simple deposit widhraw bank system by adding style sheet we get stylinig to it
