@@ -1,1 +1,7 @@
-Bhai simple shabdon mein: `index.html` sirf structure banata hai jisme dropdown aur product list ke box hote hain, `style.css` page ko design karta hai jaise border, spacing, colors aur fonts, aur `script.js` logic handle karta hai jisme ek product array bana hota hai aur dropdown ke hisaab se products filter karke `productList` div mein show kiye jaate hain, matlab HTML skeleton deta hai, CSS usko sundar banata hai aur JS usme jaan dalta hai.
+. The index.html file is the structure of the webpage. It contains the main heading, a dropdown menu to filter products by category, and a container (div) where the products will be displayed. It also links the external CSS for styling and the JavaScript file for functionality.
+
+2. The style.css file controls how everything looks on the page. It sets the font, margins, and padding, and also gives the product boxes borders, spacing, and background colors to make them look neat and organized. The dropdown menu is also styled for a cleaner appearance.
+
+3. The script.js file adds the actual logic to the page. It stores the products in an array with their names and categories, and based on the selected category from the dropdown, it filters the products and displays only the relevant ones inside the container.
+
+4. In short, HTML provides the skeleton of the page, CSS makes it visually appealing, and JavaScript adds interactivity so the product list updates dynamically when a category is selected. Together, they create a simple but functional product filtering system.
