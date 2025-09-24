@@ -1,0 +1,34 @@
+Project Description: Employee Management System (Node.js CLI)
+
+This is a simple Command Line Interface (CLI) application built using Node.js.
+It allows users to manage a list of employees stored in memory (an array).
+
+The app provides the following features:
+
+Add Employee → User can enter an employee’s name and ID, and the employee is stored in the array.
+
+List Employees → Displays all employees currently stored with their names and IDs.
+
+Remove Employee → User can remove an employee by entering their ID.
+
+Exit → Safely exits the application.
+
+Technical Details:
+
+Language: JavaScript (Node.js)
+
+Modules Used: Built-in readline module (for input/output handling in terminal).
+
+Data Storage: All employees are stored in an array during the session. No external database or files are used.
+
+Execution: Run with node index.js in terminal.
+
+Learning Objectives:
+
+Understanding Node.js basics.
+
+Working with readline module for user interaction.
+
+Implementing CRUD (Create, Read, Delete) operations using arrays.
+
+Building a menu-driven console application.
